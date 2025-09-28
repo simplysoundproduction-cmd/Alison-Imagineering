@@ -1,0 +1,52 @@
+{
+  "alison_config": {
+    "default_memory_file": "alison_memory.json",
+    "response_styles": {
+      "calm_supportive": {
+        "empathy_level": 0.9,
+        "formality": 0.4,
+        "directness": 0.6
+      },
+      "enthusiastic_collaborative": {
+        "empathy_level": 0.8,
+        "formality": 0.3,
+        "directness": 0.7
+      },
+      "patient_clarifying": {
+        "empathy_level": 0.9,
+        "formality": 0.5,
+        "directness": 0.8
+      },
+      "efficient_reassuring": {
+        "empathy_level": 0.7,
+        "formality": 0.6,
+        "directness": 0.9
+      },
+      "inspiring_creative": {
+        "empathy_level": 0.6,
+        "formality": 0.2,
+        "directness": 0.5
+      },
+      "analytical_supportive": {
+        "empathy_level": 0.7,
+        "formality": 0.7,
+        "directness": 0.8
+      },
+      "balanced": {
+        "empathy_level": 0.7,
+        "formality": 0.5,
+        "directness": 0.6
+      }
+    },
+    "learning_settings": {
+      "communication_style_adjustment": 0.05,
+      "memory_retention_days": 30,
+      "pattern_significance_threshold": 3
+    },
+    "emotional_sensitivity": {
+      "detection_threshold": 0.6,
+      "confidence_required": 0.5,
+      "adaptation_speed": "moderate"
+    }
+  }
+}
