@@ -1,0 +1,43 @@
+# Alison memory and data files
+*.json
+!config.json
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+/tmp/
+temp/
+*.tmp
+*.log
+
+# Test files
+test_*.json
+*_memory.json
+demo_memory.json
+example*.json
+coaching_memory.json
+creative_memory.json
+decision_memory.json
+learning_memory.json
+myapp_memory.json

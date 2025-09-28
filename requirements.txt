@@ -1,0 +1,2 @@
+# Core dependencies for Alison AI Co-pilot
+# Minimal dependencies to keep the system lightweight and focused
